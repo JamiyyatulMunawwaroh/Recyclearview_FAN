@@ -14,7 +14,7 @@
     <TextView
         android:id="@+id/textListPeminatan"
         android:layout_below="@+id/textListAnggotaNama"
-        android:text="Peminatan"
+        android:text="Peminatann"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
